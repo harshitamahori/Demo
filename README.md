@@ -35,20 +35,14 @@ npm install
 yarn install
 ```
 
-### 3. Install Expo CLI (if not already)
-
-```bash
-npm install -g expo-cli
-```
-
-### 4. Start the Development Server
+### 3. Start the Development Server
 ```bash
 npx expo start
 ```
 
 This will open Expo Developer Tools in your browser.
 
-### 5. Run the App on Your Device
+### 4. Run the App on Your Device
 
 #### Option 1: Using Expo Go (iOS/Android)
 1. Install the **Expo Go** app from the App Store or Play Store.
